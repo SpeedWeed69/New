@@ -1,0 +1,4 @@
+local ohInstance1 = game:GetService("Lighting").Weapons["Yoru"]
+local ohString2 = "Weapon"
+
+game:GetService("Lighting").Buy:FireServer(ohInstance1, ohString2)
